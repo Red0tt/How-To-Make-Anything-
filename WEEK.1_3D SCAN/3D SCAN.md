@@ -1,4 +1,4 @@
-# Week.1 BLOG - 3D SCANNER!!
+![e4fabbeec34f9fe66b49c7df5216aa38](https://github.com/user-attachments/assets/05b2e941-cebe-4bd1-aaf9-f5bfe2cac0b0)# Week.1 BLOG - 3D SCANNER!!
 
 DATE: 2025-9-16 TO 2025-9-23
 
@@ -19,7 +19,7 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 
 **Problems**
 1. Transparent items can't be scan, because 3d scanner use X-ray or laser to scan, which would go directly through transparent item.
-![transparent bottle](images/setup.jpg)
+
 3.
 
 ## FORMAL WORK
