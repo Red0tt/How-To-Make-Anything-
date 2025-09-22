@@ -17,44 +17,36 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 - an Umbrella?
 - a...
 
-**Problems**
+**PROBLEMS!**
 1. Transparent items can't be scan, because 3d scanner use X-ray or laser to scan, which would go directly through transparent item.
-![transparent bottle](/WEEK.1_3D SCAN/3dscan_1.jpg)
 
-3.
+2. Earpods reflect light(laser?), can't be scanned.
+
+3. the umbrella is too big to be scanned.
+<img src="https://github.com/user-attachments/assets/545427f8-1d26-464c-a288-92e6a89017fd" width="25%" alt="transparent bottle">
+<img src="https://github.com/user-attachments/assets/d0b30658-acb2-4e5a-b60f-0476f17dad1b" width="25%" alt="earpods">
+
+
+**FINALLY..**
+I decided to use phone to scan after class.
 
 ## FORMAL WORK
 
 
-## WHAT TO BE SCANNED?
+**OBJECT**
 MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
 
+**TOOLS**
 - an ipad
 - app "reality scan"
 - app "3d scanner"
-- 纹理映射技术
 
-## PROBLEMS!
 
-我们小组使用设备对一个小雕塑进行了扫描。
+**PROBLEMS!**
+1. MR.HOLMES missed his bottom : I put Mr.Holmes on the table, thus no bottom pictures were taken.
+<img width="25%"  alt="holmes" src="https://github.com/user-attachments/assets/98fddf2e-c74d-49e1-b3ce-1de951514a5b" />
+<img width="25%"  alt="holmes2" src="https://github.com/user-attachments/assets/da73a76c-7ec0-4a42-93e9-d35837ca79d6" />
 
-### 1. 扫描现场图片
+2. The model is bad: Try to take more photos from different perspectives.
+3. THe model combined different things (in pictures) to Mr.Holmes : try to use "mask"
 
-这是我们的 setup 布置：
-![扫描设备布置图](images/setup.jpg)
-
-### 2. 最终3D模型效果
-
-经过处理，我们得到了如下模型：
-![3D模型渲染图](images/final-render.png)
-
-**[点击此处下载完整的3D扫描文件](3d-scans/final-model.obj)**
-
-### 3. 操作演示视频
-
-以下是我们的操作全过程演示：
-https://www.bilibili.com/video/BV1a4411e7Bx/  (假设的B站链接，直接粘贴即可)
-
-## 总结与反思
-
-本次实践的难点在于... 下次我会尝试...
