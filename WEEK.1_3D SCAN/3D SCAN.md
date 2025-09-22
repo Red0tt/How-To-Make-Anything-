@@ -1,17 +1,23 @@
 # Week.1 BLOG - 3D SCANNER!!
 
 DATE: 2025-9-16 TO 2025-9-23
+Description: Our aim is to set up a 3D model through using a mobile 3D scanner app (mobile is not necessary, but i only have mobile phone))
 
+## IN CLASS (A TRY)
 
-
-## USE WHAT TO SCAN?
-
-**IN CLASS (A TRY)**
+**TOOLS**
 - A 3D SCANNER
 - A PHONE (ANDRIOD)
+- A classmate
 
+**Object**
+- a Water Bottle (transperant)?
+- earpods?
+- an Umbrella?
+- a...
 
-**FORMAL WORK**
+## FORMAL WORK
+
 
 ## WHAT TO BE SCANNED?
 MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
