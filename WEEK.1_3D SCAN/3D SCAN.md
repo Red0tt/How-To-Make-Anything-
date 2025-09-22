@@ -19,7 +19,7 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 
 **Problems**
 1. Transparent items can't be scan, because 3d scanner use X-ray or laser to scan, which would go directly through transparent item.
-![transparent bottle](WEEK.1_3D SCAN/3dscan_1.jpg)
+![transparent bottle](/WEEK.1_3D SCAN/3dscan_1.jpg)
 
 3.
 
