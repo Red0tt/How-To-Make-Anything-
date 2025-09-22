@@ -2,11 +2,19 @@
 
 DATE: 2025-9-16 TO 2025-9-23
 
-## WHAT TO BE SCANNED?
-MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
 
 
 ## USE WHAT TO SCAN?
+
+**IN CLASS (A TRY)**
+- A 3D SCANNER
+- A PHONE (ANDRIOD)
+
+
+**FORMAL WORK**
+
+## WHAT TO BE SCANNED?
+MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
 
 - an ipad
 - app "reality scan"
