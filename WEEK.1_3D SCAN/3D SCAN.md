@@ -2,17 +2,18 @@
 
 DATE: 2025-9-16 TO 2025-9-23
 
-## wHAT TO SCAN?
-MR.HOLMES - （this character is 
+## WHAT TO BE SCANNED?
+MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
 
 
-## 关键知识点
+## USE WHAT TO SCAN?
 
-- 点云数据采集
--  mesh 网格重建
+- an ipad
+- app "reality scan"
+- app "3d scanner"
 - 纹理映射技术
 
-## 实践操作与成果
+## PROBLEMS!
 
 我们小组使用设备对一个小雕塑进行了扫描。
 
