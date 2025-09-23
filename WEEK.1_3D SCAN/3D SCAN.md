@@ -50,3 +50,6 @@ MR.HOLMES - （this character is directly derived from game "The Great Ace Attor
 2. The model is bad: Try to take more photos from different perspectives.
 3. THe model combined different things (in pictures) to Mr.Holmes : try to use "mask"
 
+**OUTPUT**
+
+![0f0519489bb9885489aceaec57c01dbf](https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69)
