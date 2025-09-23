@@ -49,7 +49,7 @@ MR.HOLMES - （this character is directly derived from game "The Great Ace Attor
 
 2. The model is bad: Try to take more photos from different perspectives.
 3. THe model combined different things (in pictures) to Mr.Holmes : try to use "mask"
-4. MAYBE MR.Holmes's texture is not suitable: change the object.
+4. MAYBE MR.Holmes's texture(soft) is not suitable: change the object.
 
 **OUTPUT**
 
