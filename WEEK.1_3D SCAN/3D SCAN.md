@@ -53,10 +53,11 @@ MR.HOLMES - （this character is directly derived from game "The Great Ace Attor
 
 **OUTPUT**
 
-![output](https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69)
+<img src="https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69" width="25%" alt="output">
 
 
 
 **3D MODEL**
+
 [1.zip](https://github.com/user-attachments/files/22481207/1.zip)
 
