@@ -1,4 +1,4 @@
-### Week.1 BLOG - 3D SCANNER!!
+<img width="136" height="39" alt="image" src="https://github.com/user-attachments/assets/7f5287fb-c7d8-45a2-9fbd-d75e4d01611a" />### Week.1 BLOG - 3D SCANNER!!
 
 DATE: 2025-9-16 TO 2025-9-23
 
@@ -35,6 +35,7 @@ I decided to use phone to scan after class.
 
 **OBJECT**
 MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
+A PLASTIC TOY- (from game "Kirby")
 
 **TOOLS**
 - an ipad
@@ -50,6 +51,10 @@ MR.HOLMES - （this character is directly derived from game "The Great Ace Attor
 2. The model is bad: Try to take more photos from different perspectives.
 3. THe model combined different things (in pictures) to Mr.Holmes : try to use "mask"
 4. MAYBE MR.Holmes's texture(soft) is not suitable: change the object.
+
+
+**REFLECTION**
+1. The fluffy, smooth and transparent material is not allowed!
 
 **OUTPUT**
 
