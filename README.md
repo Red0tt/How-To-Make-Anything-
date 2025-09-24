@@ -5,5 +5,5 @@ This is my WEEK.1 work!
 - [Week1](./WEEK.1_3D%20SCAN/3D%20SCAN.md)
 
 
-WEEK.2 is still proceeding...
-- 
+  WEEK.2 is still proceeding...
+- [WEEK2](./WEEK.2_MODIFY_3DMODEL/BLOG.md)
