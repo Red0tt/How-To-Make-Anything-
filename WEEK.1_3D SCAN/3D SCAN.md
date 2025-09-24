@@ -1,4 +1,4 @@
-<img width="136" height="39" alt="image" src="https://github.com/user-attachments/assets/7f5287fb-c7d8-45a2-9fbd-d75e4d01611a" />### Week.1 BLOG - 3D SCANNER!!
+### Week.1 BLOG - 3D SCANNER!!
 
 DATE: 2025-9-16 TO 2025-9-23
 
