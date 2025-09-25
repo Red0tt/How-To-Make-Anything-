@@ -54,18 +54,29 @@ A PLASTIC TOY- (from game "Kirby")
 
 
 **REFLECTION**
-1. The fluffy, smooth and transparent material is not allowed!
+1. The fluffy, smooth and transparent material is not allowed.
+
+2. sometimes, too small item also is hard to be scanned.
+
+3. Realityscan is different from 3Dscanner? The former uses pictures to build a model, the latter use laser? 
 
 **OUTPUT**
 
-still needs to be modified!
+a bag
 
 <img src="https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69" width="25%" alt="output">
 
 
 
 
+a plastic kabi toy
+
+<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.1_3D%20SCAN/3dscan_kabi.png" width="25%" alt="kabioutput">
+
+
+
 **3D MODEL**
 
-[1.zip](https://github.com/user-attachments/files/22481207/1.zip)
+[bag.zip](https://github.com/user-attachments/files/22481207/1.zip)
 
+[kabi.zip](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.1_3D%20SCAN/Kabi3.zip)
