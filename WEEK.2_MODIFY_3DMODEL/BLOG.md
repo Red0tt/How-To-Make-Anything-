@@ -13,3 +13,4 @@
 - Meshmixer
 - 
 
+![第一节课的3D扫描结果](https://github.com/你的用户名/你的仓库名/raw/main/images/扫描图.jpg)
