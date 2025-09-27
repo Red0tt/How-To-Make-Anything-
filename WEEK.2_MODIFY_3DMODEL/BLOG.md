@@ -1,11 +1,3 @@
-## IN CLASS
-
-
-**TOOLS**
-- 3D PRINTER()
-- SOFTWARE BLENDER
-- SOFTWARE UltiMaker
-
 ## Pre-arrange the model
 
 
@@ -40,9 +32,26 @@ use Meshmixer to modify.
 
 ## 3D PRINT
 
+**TOOLS**
+- software Ultimaker
+- IUP3D 3D printer
 
-<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/22c9bf079cb4452e07fda1ab26ad31d1.jpeg" width="25%" alt="3dp1"><img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/bd70603910664863ba7252fc64bc6e77.jpeg" width="25%" alt="3dp2"><img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/cad4f2cce93086a29b679d0954edabb6.jpeg" width="25%" alt="3dp2">
+<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/22c9bf079cb4452e07fda1ab26ad31d1.jpeg" width="25%" alt="3dp1"><img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/bd70603910664863ba7252fc64bc6e77.jpeg" width="25%" alt="3dp2">
+
+
 
 **PROBLEMS AND SOLUTIONS**
-1. 
-<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/3d1.jpg" width="25%" alt="3dp2">
+1. Curling
+<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/3d1.jpg" width="25%" alt="3dp1">
+
+
+**Solution**: Because of overheating.
+[curling or rough corners - simplify3d](https://www.simplify3d.com/resources/print-quality-troubleshooting/curling-or-rough-corners/)
+
+2. Stringing or Oozing
+ <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/3d2.jpg" width="25%" alt="3dp2">
+
+ 
+ **Solution**: speed and distance is ok. Can try "retraction" setting.
+[Stringing or Oozing - simplify3d](https://www.simplify3d.com/resources/print-quality-troubleshooting/stringing-or-oozing/)
+   
