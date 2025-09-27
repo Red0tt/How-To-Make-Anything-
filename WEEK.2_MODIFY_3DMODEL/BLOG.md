@@ -6,7 +6,7 @@
 - SOFTWARE BLENDER
 - SOFTWARE UltiMaker
 
-## FORMAL WORK
+## Pre-arrange the model
 
 
 **TOOLS**
@@ -22,7 +22,15 @@
 3. import the model in Meshmixer
 
 
-the model exported from Realityscan(**which can't be imported by blender**)
+**PROBLEMS AND SOLUTIONS**
+
+1. The model didn't display in Blender.
+
+   **SOLUTION**: still remained to be solved.
+2.  The model and its texture turns red in Meshmixer.
+
+   **SOLUTION**: saved the model in whole english path.
+
 
 <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/unmodified.png" width="25%" alt="unkabi">
 
@@ -30,11 +38,11 @@ use Meshmixer to modify.
 
 <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/modified.png" width="25%" alt="unkabi">
 
-
-**3d Print**
-
+## 3D PRINT
 
 
-**Problems and solutions**
+<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/22c9bf079cb4452e07fda1ab26ad31d1.jpeg" width="25%" alt="3dp1"><img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/bd70603910664863ba7252fc64bc6e77.jpeg" width="25%" alt="3dp2"><img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/cad4f2cce93086a29b679d0954edabb6.jpeg" width="25%" alt="3dp2">
 
-1.can
+**PROBLEMS AND SOLUTIONS**
+1. 
+<img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/3d1.jpg" width="25%" alt="3dp2">
