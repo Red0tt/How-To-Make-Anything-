@@ -29,3 +29,12 @@ the model exported from Realityscan(**which can't be imported by blender**)
 use Meshmixer to modify.
 
 <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/modified.png" width="25%" alt="unkabi">
+
+
+**3d Print**
+
+
+
+**Problems and solutions**
+
+1.can
