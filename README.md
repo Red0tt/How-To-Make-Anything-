@@ -1,5 +1,5 @@
 # How-To-Make-Anything-
-Hallo！This is my record for Lesson “How To Make Anything”. I made every week a independent page, you can find details in the following.
+Hallo！This is my record for Lesson “How To Make Anything”. I made every week an independent page, you can find details in the following.
 
 **CATALOGUE**
 
