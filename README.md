@@ -3,7 +3,10 @@ Hallo！This is my record for Lesson “How To Make Anything”. I made every we
 
 **CATALOGUE**
 
-- [Week1](./WEEK.1_3D%20SCAN/3D%20SCAN.md)
+- [WEEK1](./WEEK.1_3D%20SCAN/README.md)
 
 
-- [WEEK2](./WEEK.2_MODIFY_3DMODEL/BLOG.md)
+- [WEEK2](./WEEK.2_MODIFY_3DMODEL/README.md)
+
+
+- [WEEK3](./WEEK3_LASERCUT1/README.md)
