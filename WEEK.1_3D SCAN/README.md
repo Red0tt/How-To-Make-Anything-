@@ -2,7 +2,7 @@
 
 DATE: 2025-9-16 TO 2025-9-23
 
-Description: Our aim is to set up a 3D model through using a mobile 3D scanner app (mobile is not necessary, but i only have mobile phone))
+Description: Our aim is to set up a 3D model through using a mobile 3D scanner app (mobile is not necessary, but i only have mobile phone)
 
 ## IN CLASS (A TRY)
 
@@ -27,15 +27,12 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 <img src="https://github.com/user-attachments/assets/d0b30658-acb2-4e5a-b60f-0476f17dad1b" width="25%" alt="earpods">
 
 
-**FINALLY..**
-I decided to use phone to scan after class.
-
-## FORMAL WORK
-
+## AFTER CLASS
 
 **OBJECT**
-MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
-A PLASTIC TOY- (from game "Kirby")
+- MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
+- Game console protective case
+- A PLASTIC ornaments (from game "Kirby")
 
 **TOOLS**
 - an ipad
@@ -43,11 +40,31 @@ A PLASTIC TOY- (from game "Kirby")
 - app "3d scanner"
 
 
-**PROBLEMS!**
-1. MR.HOLMES missed his bottom : I put Mr.Holmes on the table, thus no bottom pictures were taken.
-<img width="25%"  alt="holmes" src="https://github.com/user-attachments/assets/98fddf2e-c74d-49e1-b3ce-1de951514a5b" />
-<img width="25%"  alt="holmes2" src="https://github.com/user-attachments/assets/da73a76c-7ec0-4a42-93e9-d35837ca79d6" />
 
+**STEPS**
+
+
+  I downloaded many 3D scanning software, but only RealityScan could successfully scan and export models. The quality of 3DScanner isn't as good as RealityScan. RealityScan works by taking photos of a stationary object, analyzing the connections between the photos, and generating a 3D model. It has two modes: one without auto-masking and one with auto-masking.
+
+  Initially, I used the auto-masking mode to take photos around a Holmes doll. It managed to reconstruct the top part of the doll but failed to capture the underside. I tried hanging it in the air for shooting, using my poster display stand along with its small hanging rope. However, due to the cluttered background, uneven lighting, and other issues I couldn't pinpoint, the result was unsatisfactory—far worse than when it was simply placed stationary on the table. This time, even the face of the Holmes doll wasn't properly generated.
+
+  I suspect the plush material also posed its own challenges. I then switched to scanning a game package, and since its shape was simpler, the scanning result turned out much better than with the Holmes doll.
+
+
+<img width="25%"  alt="holmes2" src="https://github.com/user-attachments/assets/da73a76c-7ec0-4a42-93e9-d35837ca79d6" />
+<img width="25%"  alt="holmes" src="https://github.com/user-attachments/assets/98fddf2e-c74d-49e1-b3ce-1de951514a5b" />
+<img src="https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69" width="25%" alt="output">
+
+  I also noticed that the auto-masking mode often mistakes brightly colored objects as part of the main subject, when they should actually be removed. Photos with incorrect subject recognition can only be deleted, so even if I took 200 photos, only about 70 of them were actually usable.
+
+  When using the non-auto-masking mode, the environment can be properly identified, and during processing, I can select only the specific area I need. However, since the model of this package was intended for printing, I wanted a more complex shape. Therefore, I decided to scan a Kirby desk figurine instead. This time, I placed it on a table, enabled burst mode, and used the non-auto-masking mode while holding my iPad and moving around it to take photos. I made sure that about 80% of the photos turned green, indicating sufficient overlap and connection between them to generate a model.
+
+  After taking all the photos, I clicked "Process." The photos were then uploaded to the cloud for processing. Once the processing was complete, the model was downloaded. After these three steps, I could finally see the generated model.
+
+
+
+**MAIN PROBLEMS!**
+1. MR.HOLMES missed his bottom : I put Mr.Holmes on the table, thus no bottom pictures were taken.
 2. The model is bad: Try to take more photos from different perspectives.
 3. THe model combined different things (in pictures) to Mr.Holmes : try to use "mask"
 4. MAYBE MR.Holmes's texture(soft) is not suitable: change the object.
@@ -61,13 +78,6 @@ A PLASTIC TOY- (from game "Kirby")
 3. Realityscan is different from 3Dscanner? The former uses pictures to build a model, the latter use laser? 
 
 **OUTPUT**
-
-a bag
-
-<img src="https://github.com/user-attachments/assets/e02932c2-cb00-4bd8-b2ec-dc91badedd69" width="25%" alt="output">
-
-
-
 
 a plastic kabi toy
 
