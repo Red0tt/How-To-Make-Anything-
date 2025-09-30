@@ -1,4 +1,4 @@
-### Week.1 BLOG - 3D SCANNER!!
+# Week.1 BLOG - 3D SCANNER
 
 DATE: 2025-9-16 TO 2025-9-23
 
@@ -6,18 +6,21 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 
 ## IN CLASS (A TRY)
 
-**TOOLS**
+### TOOLS
 - A 3D SCANNER
 - A PHONE (ANDRIOD)
 - A classmate
 
-**Object**
+### Object
 - a Water Bottle (transperant)?
 - earpods?
 - an Umbrella?
 - a...
 
-**PROBLEMS!**
+### STEPS
+During class, we borrowed a 3D scanning device and controlled it using a mobile phone. While connecting the rotating turntable, we encountered an issue: we couldn't simultaneously control the rotation of the turntable and initiate the 3D scan. Eventually, we discovered that on the 3D scanning initiation interface, there was a floating window that could control the turntable's rotation. However, since I wasn't the one operating it at that moment, I couldn't take a screenshot to illustrate this.
+
+### PROBLEMS
 1. Transparent items can't be scan, because 3d scanner use X-ray or laser to scan, which would go directly through transparent item.
 
 2. Earpods reflect light(laser?), can't be scanned.
@@ -29,19 +32,19 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
 
 ## AFTER CLASS
 
-**OBJECT**
+### OBJECT
 - MR.HOLMES - （this character is directly derived from game "The Great Ace Attorney"）
 - Game console protective case
 - A PLASTIC ornaments (from game "Kirby")
 
-**TOOLS**
+### TOOLS
 - an ipad
 - app "reality scan"
 - app "3d scanner"
 
 
 
-**STEPS**
+### STEPS
 
 
   I downloaded many 3D scanning software, but only RealityScan could successfully scan and export models. The quality of 3DScanner isn't as good as RealityScan. RealityScan works by taking photos of a stationary object, analyzing the connections between the photos, and generating a 3D model. It has two modes: Augmented Reality Mode (without auto-masking) and Camera Control Mode (with auto-masking).
@@ -50,7 +53,7 @@ Description: Our aim is to set up a 3D model through using a mobile 3D scanner a
   
   <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.1_3D%20SCAN/mode.png" width="25%" alt="mode">
 
-  Initially, I used the auto-masking mode to take photos around a Holmes doll. It managed to reconstruct the top part of the doll but failed to capture the underside. I tried hanging it in the air for shooting, using my poster display stand along with its small hanging rope. However, due to the cluttered background, uneven lighting, and other issues I couldn't pinpoint, the result was unsatisfactory—far worse than when it was simply placed stationary on the table. This time, even the face of the Holmes doll wasn't properly generated.
+  Initially, I used the Camera Control Mode (auto-masking mode) to take photos around a Holmes doll. I turned on the burst mode, so it could automatically capture photos from all the necessary angles while I was holding the iPad and moving around the object, even at positions where it would be difficult for me to press the shutter button. It managed to reconstruct the top part of the doll but failed to capture the underside. I tried hanging it in the air for shooting, using my poster display stand along with its small hanging rope. However, due to the cluttered background, uneven lighting, and other issues I couldn't pinpoint, the result was unsatisfactory—far worse than when it was simply placed stationary on the table. This time, even the face of the Holmes doll wasn't properly generated.
 
   I suspect the plush material also posed its own challenges. I then switched to scanning a game package, and since its shape was simpler, the scanning result turned out much better than with the Holmes doll.
 
@@ -84,21 +87,21 @@ Finally, we obtained our 3D model file, and imported it into Mixmesher. As for h
 
 
 
-**REFLECTION**
+### REFLECTION
 1. The fluffy, smooth and transparent material is not allowed.
 
 2. sometimes, too small item also is hard to be scanned.
 
 3. The core technology of Realityscan and 3Dscanner app is different. The former uses Photogrammetry, the latter uses LiDAR.
 
-**OUTPUT**
+### OUTPUT
 
 a plastic kabi toy
 
 <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.1_3D%20SCAN/3dscan_kabi.png" width="25%" alt="kabioutput">
 
 
-**3D MODEL**
+### 3D MODEL DOWNLOAD
 
 [bag.zip](https://github.com/user-attachments/files/22481207/1.zip)
 
