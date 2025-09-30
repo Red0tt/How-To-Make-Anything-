@@ -1,17 +1,20 @@
 ## Pre-arrange the model
 
 
-**TOOLS**
+### TOOLS
 - Meshmixer
+- bilibili
 
-
-**STEPS**
+### STEPS
 
 1. export model from Realityscan, in the file of obj
-
 2. save it in whole English path（otherwise the model and its texture will turn red in Meshmixer)
-
 3. import the model in Meshmixer
+4. The tutorial on how to use this software. Click on the picture to go to the video page.
+
+[![Meshmixer Tutorial](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/1da3063f2a24bfb6e60eca8b3569d4078461fa04.png)](https://www.bilibili.com/video/BV1nt4y1z7PS/?share_source=copy_web&vd_source=102c049ed15fe9d1351c7a45affa4e7d)
+
+[![Meshmixer Tutorial2](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/aedfaec0ffb81385b01f2a98097a0f25eb946250.jpg)](https://www.bilibili.com/video/BV1ty4y1i7Y8/?share_source=copy_web&vd_source=102c049ed15fe9d1351c7a45affa4e7d)
 
 
 **PROBLEMS AND SOLUTIONS**
