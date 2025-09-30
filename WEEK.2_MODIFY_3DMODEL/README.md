@@ -12,9 +12,26 @@
 3. import the model in Meshmixer
 4. The tutorial on how to use this software. Click on the picture to go to the video page.
 
-[![Meshmixer Tutorial](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/1da3063f2a24bfb6e60eca8b3569d4078461fa04.png)](https://www.bilibili.com/video/BV1nt4y1z7PS/?share_source=copy_web&vd_source=102c049ed15fe9d1351c7a45affa4e7d)
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV1nt4y1z7PS" target="_blank">
+    <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/1da3063f2a24bfb6e60eca8b3569d4078461fa04.png" 
+         alt="3D扫描演示" 
+         style="width: 500px; height: auto; border: 2px solid #f0f0f0;">
+  </a>
+  <br>
+  <strong>Click on the picture to go to the video page(bilibili).</strong>
+</div>
 
-[![Meshmixer Tutorial2](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/aedfaec0ffb81385b01f2a98097a0f25eb946250.jpg)](https://www.bilibili.com/video/BV1ty4y1i7Y8/?share_source=copy_web&vd_source=102c049ed15fe9d1351c7a45affa4e7d)
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV1ty4y1i7Y8" target="_blank">
+    <img src="https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK.2_MODIFY_3DMODEL/video_image/aedfaec0ffb81385b01f2a98097a0f25eb946250.jpg" 
+         alt="3D扫描演示" 
+         style="width: 500px; height: auto; border: 2px solid #f0f0f0;">
+  </a>
+  <br>
+  <strong>Click on the picture to go to the video page(bilibili).</strong>
+</div>
+
 
 
 **PROBLEMS AND SOLUTIONS**
