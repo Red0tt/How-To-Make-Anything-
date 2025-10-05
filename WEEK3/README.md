@@ -28,5 +28,6 @@
 **BASIC RULES**
 - NO MASS
 - NO GLUE<br>
+
 **WHAT THE FUTURE WILL BE LIKE**<br>
   Initially, I conceived a sci-fi world based solely on the concepts of 'no mass' and 'no glue', developing the idea that mass production is not used due to resource scarcity, and everyone wants personalized products or promotes multi-purpose objects that can adapt to different people's needs. I provided personalized explanations for products like communication devices, water cups, chairs, etc. Then, Saverio told us that we need to first envision a future before thinking about products. Afterwards, from my own perspective, because I am sensitive to sound—when sleeping, there are people outside having parties, talking loudly, or car noises—so I need earplugs plus noise-canceling headphones. I imagined a future with severe noise pollution, where people need to wear earplugs that only accept specific frequency bands of sound, helping to block out noise.
