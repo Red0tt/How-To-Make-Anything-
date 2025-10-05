@@ -9,4 +9,4 @@ Hallo！This is my record for Lesson “How To Make Anything”. I made every we
 - [WEEK2](./WEEK.2_MODIFY_3DMODEL/README.md)
 
 
-- [WEEK3](./WEEK3_LASERCUT1/README.md)
+- [WEEK3](./WEEK3/README.md)
