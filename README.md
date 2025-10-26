@@ -13,4 +13,4 @@ Hallo！This is my record for Lesson “How To Make Anything”. I made every we
 
 - [WEEK4](./WEEK4/README.md)
 
-- [WEEK5-8](./
+- [WEEK5-8](./WEEK-5-8_DEEPSICK/README.md)
