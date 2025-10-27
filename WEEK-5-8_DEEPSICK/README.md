@@ -47,7 +47,7 @@ We built it according to the concept map. Initially, we planned to make a rough 
 </p>
 
 <p align="center">
-<img width="50%" alt="3" src="https://github.com/user-attachments/assets/89a890fa-515d-449f-b696-069b595e50de" style="transform: rotate(90deg)/>
+<img width="50%" alt="3" src="https://github.com/user-attachments/assets/04f5acdd-e5f6-4fab-9480-e3e58a77cce8"/>
 </p>
 
 <p align="center">
