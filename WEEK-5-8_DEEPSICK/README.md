@@ -27,5 +27,8 @@ Thus, we came up with an idea for a simple device:
 2. Fix the nozzle of the inflation hole to a rotating stand, and use a suction cup to fix the bottom of the bottle to the stand. Then, once activated, the stand will automatically rotate at a constant speed and move left and right. Under the rotating stand, the induction stove will heat the bottle, ensuring uniform heating across the entire bottle.
 
 3. Once the bottle surface is smoothed out, turn off the induction stove, remove the bottle, and it is ready for use in 3D printing.
+<p align="center">
 <img width="967" height="488" alt="示意图" src="https://github.com/user-attachments/assets/0123469d-74e8-49ef-bf28-2cfd94318179" />
+</p>
+
 
