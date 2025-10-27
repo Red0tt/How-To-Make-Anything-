@@ -27,8 +27,33 @@ Thus, we came up with an idea for a simple device:
 2. Fix the nozzle of the inflation hole to a rotating stand, and use a suction cup to fix the bottom of the bottle to the stand. Then, once activated, the stand will automatically rotate at a constant speed and move left and right. Under the rotating stand, the induction stove will heat the bottle, ensuring uniform heating across the entire bottle.
 
 3. Once the bottle surface is smoothed out, turn off the induction stove, remove the bottle, and it is ready for use in 3D printing.
+
+Here is our concept diagram.
 <p align="center">
 <img width="967" height="488" alt="示意图" src="https://github.com/user-attachments/assets/0123469d-74e8-49ef-bf28-2cfd94318179" />
 </p>
 
 
+
+We built it according to the concept map. Initially, we planned to make a rough model of a device with a base size of A3, but in this case, the paper cups used to support it couldn't hold the long rods, so we used shorter pipes instead, and the model was correspondingly smaller. We used straws to make the horizontal beams, splitting them into two sections, and found a plastic bottle with a pointed neck to simulate the connection between the nozzle and the horizontal beam. For the suction cup at the rear end, we used a bottle cap for illustration. We fixed the horizontal beams to the pillars with wire while ensuring they could rotate, and during the process, we also used twist ties and similar tools. Finally, we found an acrylic plate of a similar shape to represent the induction cooker, placing it between the bases of the pillars. However, we felt that with this setup, the induction cooker was too far from the bottle to heat it effectively, so we placed the acrylic plate on the base (even so, the size still deviated from what we had initially imagined).
+
+
+<p align="center">
+<img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087" style="transform: rotate(90deg); />
+</p>
+
+<p align="center">
+<img width="50%" alt="2" src="https://github.com/user-attachments/assets/e38f8e00-38bf-4303-a32c-01432aa482fe" style="transform: rotate(90deg); />
+</p>
+
+<p align="center">
+<img width="50%" alt="3" src="https://github.com/user-attachments/assets/89a890fa-515d-449f-b696-069b595e50de" style="transform: rotate(90deg)/>
+</p>
+
+<p align="center">
+<img width="50%" alt="4" src="https://github.com/user-attachments/assets/5e799a8f-611e-45fe-a851-15e49e5999e4" style="transform: rotate(90deg); />
+</p>
+
+<p align="center">
+<img width="50%" alt="5" src="https://github.com/user-attachments/assets/f3b09180-1347-4de2-b92e-8347b8749b62" style="transform: rotate(90deg); />
+</p>
