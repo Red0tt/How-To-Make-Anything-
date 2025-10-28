@@ -62,5 +62,6 @@ We built it according to the concept diagram. Initially, we planned to make a ro
 We also made a poster for our design.
 
 <p align="center">
-<img width="50%" alt="e290909f530cf9d107ad15d5e84a654b" src="https://github.com/user-attachments/assets/031acfe1-d2dc-4865-8163-46201e577a5b" />
+<img width="50%" alt="制造万物 海报 (3)" src="https://github.com/user-attachments/assets/05a016c6-04c7-4657-9fc1-3b5a2b1e6285" />
 </p>
+
