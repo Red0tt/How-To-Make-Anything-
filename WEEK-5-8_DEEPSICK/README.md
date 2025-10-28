@@ -5,7 +5,7 @@ Our team has selected the blow molding process as the subject of our study. We b
 
 
 # IMAGINE A NEW WAY
-Later, the professor asked us to assume that this process is carried out in a Fablab, focusing on low-tech, small-scale modifications. Initially, we planned to replace PET with gel-like materials and use a manual pump instead of a high-pressure blower. 
+Later, the professor asked us to assume that this process is carried out in a Fablab, focusing on low-tech, small-scale modifications. At the beginning, we considered alternative solutions for every step of the blow molding process, such as using gel instead of PET, or a hairdryer instead of high-pressure air. The picture shows our detailed divergent thinking. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cdc0db20-512f-483d-8787-c3d2e8494479" width="50%">
@@ -15,8 +15,7 @@ Later, the professor asked us to assume that this process is carried out in a Fa
 </p>
 
 
-
-The professor suggested we try to create a better circular ecosystem for the blow molding process and recommended that we attempt to turn PET bottles into raw materials for 3D printer filament. The main goal was to remove the imprints on the surfaces of different bottles. At that time, our idea was to use hot air and molds, so that the PET bottles would be heated by the hot air and conform to the molds, making them smooth.
+The professor told us that changing everything might be a bit difficult, and we only need to change one step. Based on our ideas, he also suggested that PET bottles could be used as 3D printing filament. But since the surfaces of the bottles are uneven, they need to be flattened before proceeding to the next step. We can use the re-blow molding process to make their surfaces flat.The main goal was to remove the imprints on the surfaces of different bottles. At that time, our idea was to use hot air and molds, so that the PET bottles would be heated by the hot air and conform to the molds, making them smooth.
 
 However, the problem is that this would require molds for different bottle sizes, and some bottles are quite large, which would consume excessive resources. We tried to see how other bloggers were doing it, and after searching online with relevant keywords, we found that simply applying heat evenly could smooth the bottle’s surface.
 
@@ -35,15 +34,20 @@ Here is our concept diagram.
 
 
 
-We built it according to the concept map. Initially, we planned to make a rough model of a device with a base size of A3, but in this case, the paper cups used to support it couldn't hold the long rods, so we used shorter pipes instead, and the model was correspondingly smaller. We used straws to make the horizontal beams, splitting them into two sections, and found a plastic bottle with a pointed neck to simulate the connection between the nozzle and the horizontal beam. For the suction cup at the rear end, we used a bottle cap for illustration. We fixed the horizontal beams to the pillars with wire while ensuring they could rotate, and during the process, we also used twist ties and similar tools. Finally, we found an acrylic plate of a similar shape to represent the induction cooker, placing it between the bases of the pillars. However, we felt that with this setup, the induction cooker was too far from the bottle to heat it effectively, so we placed the acrylic plate on the base (even so, the size still deviated from what we had initially imagined).
+We built it according to the concept diagram. Initially, we planned to make a rough model of a device with a base size of A3, but in this case, the paper cups used to support it couldn't hold the long rods, so we used shorter pipes instead, and the model was correspondingly smaller. We used straws to make the horizontal beams, splitting them into two sections, and found a plastic bottle with a pointed neck to simulate the connection between the nozzle and the horizontal beam. For the suction cup at the rear end, we used a bottle cap for illustration. We fixed the horizontal beams to the pillars with wire while ensuring they could rotate, and during the process, we also used twist ties and similar tools. Finally, we found an acrylic plate of a similar shape to represent the induction cooker, placing it between the bases of the pillars. However, we felt that with this setup, the induction cooker was too far from the bottle to heat it effectively, so we placed the acrylic plate on the base (even so, the size still deviated from what we had initially imagined).
 
 
 <p align="center">
-<img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087" style="transform: rotate(90deg); />
+<img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087"/>
 </p>
 
 <p align="center">
-<img width="50%" alt="2" src="https://github.com/user-attachments/assets/e38f8e00-38bf-4303-a32c-01432aa482fe" style="transform: rotate(90deg); />
+<img width="50%" alt="2" src="https://github.com/user-attachments/assets/e38f8e00-38bf-4303-a32c-01432aa482fe"/>
+</p>
+
+
+<p align="center">
+<img width="50%" alt="5" src="https://github.com/user-attachments/assets/a5f4cf9a-e027-45a2-9578-10318a9db647"/>
 </p>
 
 <p align="center">
@@ -51,9 +55,12 @@ We built it according to the concept map. Initially, we planned to make a rough 
 </p>
 
 <p align="center">
-<img width="50%" alt="4" src="https://github.com/user-attachments/assets/5e799a8f-611e-45fe-a851-15e49e5999e4" />
+<img width="50%" alt="4" src="https://github.com/user-attachments/assets/5e799a8f-611e-45fe-a851-15e49e5999e4"/>
 </p>
 
+
+We also made a poster for our design.
+
 <p align="center">
-<img width="50%" alt="5" src="https://github.com/user-attachments/assets/f3b09180-1347-4de2-b92e-8347b8749b62" style="transform: rotate(90deg); />
+<img width="50%" alt="e290909f530cf9d107ad15d5e84a654b" src="https://github.com/user-attachments/assets/031acfe1-d2dc-4865-8163-46201e577a5b" />
 </p>
