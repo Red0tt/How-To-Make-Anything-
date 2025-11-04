@@ -33,11 +33,20 @@ Thus, we came up with an idea for a simple device:
 
 1. First, insert an inflation hole into the bottle cap to fill the bottle with air.
 
+首先，在瓶盖上插入一个充气孔，用于向瓶内注入空气。
+
 2. Fix the nozzle of the inflation hole to a rotating stand, and use a suction cup to fix the bottom of the bottle to the stand. Then, once activated, the stand will automatically rotate at a constant speed and move left and right. Under the rotating stand, the induction stove will heat the bottle, ensuring uniform heating across the entire bottle.
+
+将充气孔的气嘴固定在可旋转的支架上，并用吸盘将瓶底固定在支架上。启动后，支架会以恒定速度自动旋转并左右移动。在旋转支架下方放置电磁炉，对瓶子进行加热，从而确保瓶身整体受热均匀。
 
 3. Once the bottle surface is smoothed out, turn off the induction stove, remove the bottle, and it is ready for use in 3D printing.
 
+当瓶身表面变得光滑后，关闭电磁炉，取下瓶子，即可将其用于 3D 打印。
+
 Here is our concept diagram.
+
+这是我们的概念示意图。
+
 <p align="center">
 <img width="967" height="488" alt="示意图" src="https://github.com/user-attachments/assets/0123469d-74e8-49ef-bf28-2cfd94318179" />
 </p>
@@ -46,6 +55,7 @@ Here is our concept diagram.
 
 We built it according to the concept diagram. Initially, we planned to make a rough model of a device with a base size of A3, but in this case, the paper cups used to support it couldn't hold the long rods, so we used shorter pipes instead, and the model was correspondingly smaller. We used straws to make the horizontal beams, splitting them into two sections, and found a plastic bottle with a pointed neck to simulate the connection between the nozzle and the horizontal beam. For the suction cup at the rear end, we used a bottle cap for illustration. We fixed the horizontal beams to the pillars with wire while ensuring they could rotate, and during the process, we also used twist ties and similar tools. Finally, we found an acrylic plate of a similar shape to represent the induction cooker, placing it between the bases of the pillars. However, we felt that with this setup, the induction cooker was too far from the bottle to heat it effectively, so we placed the acrylic plate on the base (even so, the size still deviated from what we had initially imagined).
 
+我们按照概念图进行了模型制作。最初，我们计划做一个底座尺寸为 A3 的粗略装置模型，但这样一来，用来支撑的纸杯无法承受较长的杆件，因此我们改用了较短的管子，模型也相应缩小。我们用吸管制作横梁，将其分为两段，并找到一个瓶颈尖的塑料瓶，用来模拟气嘴与横梁的连接。后端的吸盘我们用瓶盖来示意。横梁通过铁丝固定在支柱上，同时保证其可以旋转，在制作过程中，我们还使用了扎带等辅助工具。最后，我们找了一块形状相似的亚克力板来代表电磁炉，放在支柱底座之间。然而，我们觉得这样电磁炉离瓶子太远，无法有效加热，于是将亚克力板放在底座上（尽管如此，其尺寸仍与我们最初设想有所偏差）。
 
 <p align="center">
 <img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087"/>
@@ -70,6 +80,8 @@ We built it according to the concept diagram. Initially, we planned to make a ro
 
 
 We also made a poster for our design.
+
+我们还为我们的设计制作了一张海报。
 
 <p align="center">
 <img width="50%" alt="制造万物 海报 (3)" src="https://github.com/user-attachments/assets/05a016c6-04c7-4657-9fc1-3b5a2b1e6285" />
