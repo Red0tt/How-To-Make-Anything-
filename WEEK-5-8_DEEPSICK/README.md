@@ -90,7 +90,6 @@ We also made a poster for our design.
 
 # NEXT STEP?
 For further ideas, we have organized a more systematic introduction. Please refer to the following link.
-<p>
+
   [NEXT STEP](https://github.com/Red0tt/Smoothblow-device-for-PET/blob/main/README.md)
-</p>
 
