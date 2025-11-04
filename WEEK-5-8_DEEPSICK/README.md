@@ -87,3 +87,10 @@ We also made a poster for our design.
 <img width="50%" alt="制造万物 海报 (3)" src="https://github.com/user-attachments/assets/05a016c6-04c7-4657-9fc1-3b5a2b1e6285" />
 </p>
 
+
+# NEXT STEP?
+For further ideas, we have organized a more systematic introduction. Please refer to the following link.
+<p>
+  [NEXT STEP](https://github.com/Red0tt/Smoothblow-device-for-PET/blob/main/README.md)
+</p>
+
